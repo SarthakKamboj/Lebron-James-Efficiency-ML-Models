@@ -1,4 +1,4 @@
-<img src="Lebron_Images/lbj_intro.jpg" alt="Lebron James"/>
+<img src="Lebron_Images/lbj_intro.jpg" alt="Lebron James" />
 <h2>Intro</h2>
 <p>
     Lebron James is one of the best players in the NBA and the star player of the Los Angeles Lakers. He has been been praised for playing an inclusive brand of basketball, always involving his teammates, while playing high-level defense and contributing efficiently in many aspects in the game of basketball. His hardwork and ability to work with others has led him to win 3 NBA championships, 4 MVP awards, and 2 Olympic gold medals.

@@ -1,4 +1,4 @@
-<img src="Lebron_Images/lbj_intro.jpg" alt="Lebron James" />
+<img src="Lebron_Images/lbj_intro.jpg" alt="Lebron James" width="100" />
 <h2>Intro</h2>
 <p>
     Lebron James is one of the best players in the NBA and the star player of the Los Angeles Lakers. He has been been praised for playing an inclusive brand of basketball, always involving his teammates, while playing high-level defense and contributing efficiently in many aspects in the game of basketball. His hardwork and ability to work with others has led him to win 3 NBA championships, 4 MVP awards, and 2 Olympic gold medals.
@@ -38,7 +38,7 @@ It should be noted that +/- is not a wholistic explanation of the performance of
     The data visualization process is broken up into two major parts: the basic offensive analysis, in-depth offensive scoring efficiency analysis, and defensive analysis. 
 </p>
 <h3>Basic Offensive Analysis</h3>
-<img src="Lebron_Images/lbj-shooting.jpg" alt="LBJ Shooting"/>
+<img src="Lebron_Images/lbj-shooting.jpg" alt="LBJ Shooting" width="100" />
 <p>
     The basic offensive analysis visualizes Lebron's points per game, assists per game, total rebounds per game, and field goal percentage. I analyzed the distribution of these statistics, outliers, and overall trends.
 </p>
@@ -46,7 +46,7 @@ It should be noted that +/- is not a wholistic explanation of the performance of
 <p>
     This section visualizes more specific statistics which are percentages and rebounds. It shows point plots that show his offensive progression over the course of his career, box plots to show outliers, and bifurcated plots to analyze how certain trends change at different ages. 
 <p>
-<img src="Lebron_Images/lbj-defense.jpg" alt="LBJ Defense">
+<img src="Lebron_Images/lbj-defense.jpg" alt="LBJ Defense" width="100" >
 <h3>Defense</h3>
 <p>
     This section demonstrates how effective Lebron was at making steals, blocking, and avoiding personal fouls.

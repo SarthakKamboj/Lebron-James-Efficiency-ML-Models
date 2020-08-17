@@ -22,7 +22,7 @@
     The model was the linear regression model that include one-hot-encoded data about which opposing team Lebron was facing and no PCA reduction. This model had a root mean squared error (rmse) of 6.422 points.
 </p>
 <p>
-It should be noted that +/- is not a wholistic explanation of the performance of one player. Lebron James has played about 17 years in the NBA and many different rosters. Therefore, some of the error could be explained by the fact that some years Lebron has had less skilled teammates; therefore, even when he has an efficient game, having less skilled teammates may still lead to a lower +/- rating.
+It should be noted that +/- is not a wholistic explanation of the performance of one player. Lebron James has played about 17 years in the NBA and with many different rosters. Therefore, some of the error could be explained by the fact that some years Lebron has had less skilled teammates; therefore, even when he has an efficient game, having less skilled teammates may have led to a lower +/- rating.
 </p>
 
 <h2>Data Collection</h2>

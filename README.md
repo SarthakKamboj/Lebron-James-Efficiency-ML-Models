@@ -1,4 +1,4 @@
-<img src="Lebron_Images/lbj_intro.jpg" alt="Lebron James" width="100" />
+<img src="Lebron_Images/lbj_intro.jpg" alt="Lebron James" width="300" />
 <h2>Intro</h2>
 <p>
     Lebron James is one of the best players in the NBA and the star player of the Los Angeles Lakers. He has been been praised for playing an inclusive brand of basketball, always involving his teammates, while playing high-level defense and contributing efficiently in many aspects in the game of basketball. His hardwork and ability to work with others has led him to win 3 NBA championships, 4 MVP awards, and 2 Olympic gold medals.
@@ -7,6 +7,7 @@
     One of the most signficant indicators of a player's success is their +/- rating, a statistic that measures the difference in one team's scoring and the opponent team's scoring while the player is in the game.
 </p>
 
+<img src="Lebron_Images/lbj_ml.jpg" alt="LBJ Shooting" width="300" />
 <h2>Machine Learning</h2>
 <p>
     The goal of this project is to use machine learning to predict the +/- rating for Lebron's games based on several factors such as points scored, PER, rebounds, steals, blocks, and many more. There are two machine learning iterations, which include two rounds of feature engineering and testing machine learning models.
@@ -37,8 +38,8 @@ It should be noted that +/- is not a wholistic explanation of the performance of
 <p>
     The data visualization process is broken up into two major parts: the basic offensive analysis, in-depth offensive scoring efficiency analysis, and defensive analysis. 
 </p>
+<img src="Lebron_Images/lbj-shooting.jpg" alt="LBJ Shooting" width="300" />
 <h3>Basic Offensive Analysis</h3>
-<img src="Lebron_Images/lbj-shooting.jpg" alt="LBJ Shooting" width="100" />
 <p>
     The basic offensive analysis visualizes Lebron's points per game, assists per game, total rebounds per game, and field goal percentage. I analyzed the distribution of these statistics, outliers, and overall trends.
 </p>
@@ -46,7 +47,7 @@ It should be noted that +/- is not a wholistic explanation of the performance of
 <p>
     This section visualizes more specific statistics which are percentages and rebounds. It shows point plots that show his offensive progression over the course of his career, box plots to show outliers, and bifurcated plots to analyze how certain trends change at different ages. 
 <p>
-<img src="Lebron_Images/lbj-defense.jpg" alt="LBJ Defense" width="100" >
+<img src="Lebron_Images/lbj-defense.jpg" alt="LBJ Defense" width="300" >
 <h3>Defense</h3>
 <p>
     This section demonstrates how effective Lebron was at making steals, blocking, and avoiding personal fouls.
